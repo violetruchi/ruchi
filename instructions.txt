@@ -1,0 +1,21 @@
+make the changes
+i should have done the major work
+you'll just have to replace images/ add text in index.html
+
+open sublime text in my laptop
+go to the bottom right window, should be a terminal
+
+
+in the terminal type:
+"cd violet"
+press ctrl+shift+G
+you will see your cursor at : "git commit -m |"
+type datetime as mm_hh_dd_mm_yy and only then press enter
+type "git push"
+
+should work, if does not:
+type "git pull" enter and then "git push"
+
+changes should reflect on website in 10 mins
+
+if problems encountered: call me on 9702101015
