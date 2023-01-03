@@ -7,7 +7,7 @@ go to the bottom right window, should be a terminal
 
 
 in the terminal type:
-"cd violet"
+"cd ruchi"
 press ctrl+shift+G
 you will see your cursor at : "git commit -m |"
 type datetime as mm_hh_dd_mm_yy and only then press enter
